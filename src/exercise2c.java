@@ -10,6 +10,7 @@ public class exercise2c{
         Scanner scan3 = new Scanner(System.in);
         String getal3 = scan3.next();
         System.out.println ("Geeft 3 getallen");
+        //lijntje colmmentaar
 
 
 
