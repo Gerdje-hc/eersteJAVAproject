@@ -4,7 +4,7 @@
 import java.util.Scanner;
 public class Exc2c {
     public static void main (String[]args) {
-        int getal1, getal2, getal3, gemiddelde;
+        double getal1, getal2, getal3,totaal,gemiddelde;
         /** 1) ingeven van de variabelen - kan overal als je ze nodig hebt) */
         Scanner in =  new Scanner (System.in);
         /** Leest in wat de gebruiker ingeeft in het keybord */
@@ -15,15 +15,12 @@ public class Exc2c {
         System.out.println(" Geef getal 2");
         getal2 = in.nextInt();
         System.out.println(" Geef getal 3");
-        getal3 = in.nextInt();
+        getal3 = in.nextDouble();
 
-        gemiddelde = (getal1+getal2+getal3)/3;
-        System.out.printf (" Het gemiddelde van uw 3 getallen is ", gemiddelde);
+        totaal = getal1+getal2+getal3;
+        gemiddelde = totaal/3;
+        System.out.printf (" Het gemiddelde van uw 3 getallen is "+ gemiddelde);
         System.out.println();
-
-
-
-
 
 
     }
