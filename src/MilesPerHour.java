@@ -1,5 +1,5 @@
 /**
- * Created by vdabcursist on 13/06/2017.
+ * Created by vdabcursist on 13/06/2017. aanpassing
  */
 public class MilesPerHour {
     public static void main (String []args){
