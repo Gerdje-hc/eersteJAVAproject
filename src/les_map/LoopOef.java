@@ -1,3 +1,5 @@
+package les_map;
+
 import java.util.Scanner;
 
 /**

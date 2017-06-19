@@ -1,3 +1,5 @@
+package les_map;
+
 import java.util.Arrays;
 import java.util.Random;
 

@@ -1,3 +1,7 @@
+package les_map;
+
+import les_map.CalculaterF;
+
 /**
  * Created by vdabcursist on 13/06/2017.
  */

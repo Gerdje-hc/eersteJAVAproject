@@ -1,3 +1,5 @@
+package les_map;
+
 public class Pattern {
     public static void main (String[]args){
         System.out.println("  J    A  V     V  A");

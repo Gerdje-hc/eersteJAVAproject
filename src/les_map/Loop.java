@@ -1,3 +1,5 @@
+package les_map;
+
 /**
  * Created by vdabcursist on 13/06/2017.
  */
