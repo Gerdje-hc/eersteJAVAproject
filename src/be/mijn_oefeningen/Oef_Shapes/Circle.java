@@ -1,9 +1,9 @@
-package oefeningen;
+package be.mijn_oefeningen.Oef_Shapes;
 
 /**
  * Created by vdabcursist on 19/06/2017.
  */
-public class Circle extends Shape{
+public class Circle extends Shape {
     private double radius = 1.0;
 
     // Constructor

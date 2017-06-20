@@ -1,4 +1,4 @@
-package les_map;
+package be.les_map;
 
 import java.util.Scanner;
 
@@ -85,7 +85,7 @@ public class ArrayMaken {
                 sign *= -1;
             }
             double closeToPi = 4 * sum;
-            System.out.println("les_map.ArrayMaken.Pi = " + closeToPi);
+            System.out.println("ArrayMaken.Pi = " + closeToPi);
 
         }
     }

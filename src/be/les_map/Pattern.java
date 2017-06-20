@@ -1,4 +1,4 @@
-package les_map;
+package be.les_map;
 
 public class Pattern {
     public static void main (String[]args){

@@ -1,9 +1,11 @@
-package oefeningen;
+package be.mijn_oefeningen.Oef_Shapes;
+
+import be.mijn_oefeningen.Oef_Shapes.Rectangle;
 
 /**
  * Created by vdabcursist on 19/06/2017.
  */
-public class Runner {
+public class ShapeRunner {
     public static void main (String []arg){
 
         double x = 3+2;

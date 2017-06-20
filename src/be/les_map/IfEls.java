@@ -1,4 +1,4 @@
-package les_map; /**
+package be.les_map; /**
  * voorbeeld If / Els if Boolean expressie.
  */
 import java.util.Scanner;

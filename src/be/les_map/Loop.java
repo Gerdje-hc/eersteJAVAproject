@@ -1,4 +1,4 @@
-package les_map;
+package be.les_map;
 
 /**
  * Created by vdabcursist on 13/06/2017.

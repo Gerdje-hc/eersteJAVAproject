@@ -1,4 +1,4 @@
-package oefeningen;
+package be.mijn_oefeningen.Oef_Shapes;
 
 /**
  * Created by vdabcursist on 19/06/2017.
