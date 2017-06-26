@@ -1,4 +1,4 @@
-package be.mijn_oefeningen.Oef_Pojo;
+package be.mijn_oefeningen_InLes.Oef_Pojo;
 
 /**
  * Created by vdabcursist on 23/06/2017.

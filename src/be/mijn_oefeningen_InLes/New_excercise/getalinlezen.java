@@ -1,4 +1,4 @@
-package be.mijn_oefeningen.New_excercise;
+package be.mijn_oefeningen_InLes.New_excercise;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
